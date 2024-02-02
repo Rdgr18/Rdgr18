@@ -2,7 +2,7 @@
 🔭 Estudante de html, css, js<br><br>⚙ A procura de estágio 😁✌
 
 
-![snake animation](https://github.com/Rrdg18/Rrdg18/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Rdgr18/Rdgr18/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🌐 Socials:

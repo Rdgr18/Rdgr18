@@ -12,12 +12,11 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rdgr18&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdgr18&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rdgr18&icon=1&color=2)](https://visitcount.itsvg.in)
+
